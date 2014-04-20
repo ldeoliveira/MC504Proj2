@@ -288,7 +288,7 @@ int main(void) {
 	sem_init(&sem_duende, 0, 1);
 
 	/* Inicialização dos mutexes */
-  pthread_mutex_init(&mutex, NULL);
+  	pthread_mutex_init(&mutex, NULL);
 	pthread_mutex_init(&mutex_escrita, NULL);
 	pthread_mutex_init(&mutex_rena, NULL);
 	pthread_mutex_init(&mutex_duende, NULL);
