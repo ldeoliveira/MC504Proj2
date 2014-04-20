@@ -65,7 +65,7 @@ void iniciar()
 	printf("|  (_)_______                    -,-      |\n");
 	printf("|  |/| Polo  |       MC504                |\n");
 	printf("|  |/| Norte |       Prof. Islene         |\n");
-	printf("|  |/|--------       2s2014               |\n");
+	printf("|  |/|--------       1s2014               |\n");
 	printf("|  |/|               Papai Noel           |\n");
 	printf("|_________________________________________|\n");
 	printf("MELHOR VISUALIZADO EM TELA CHEIA\n");
