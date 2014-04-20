@@ -1,9 +1,9 @@
 /***
 * Projeto 2 - MC504 1s2014
 * Aluno: Leonardo de Oliveira Silva RA: 108330
-* Descricao: implementação de uma animação para representar 
+* Descrição: implementação de uma animação para representar 
 * o problema do Papai Noel apresentado pelo livro
-* The Litle Book on Semaphores
+* The Little Book on Semaphores
 *
 *
 *Todos os desenhos retirados de: http://www.geocities.com/spunk1111/xmas.htm
